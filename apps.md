@@ -2,5 +2,5 @@
 
 ### default run
 ```sh
-apps list services
+app list services
 ```
